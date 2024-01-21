@@ -1,10 +1,10 @@
 export default [
   {
-    category: "Dev",
+    category: "Hobbies",
     color: "cyan",
     items: {
-      Github: "https://github.com",
-      AWS: "https://aws.amazon.com",
+      Reddit: "https://reddit.com",
+      Twitter: "https://twitter.com",
       "Dev.to": "https://dev.to",
       Firebase: "https://console.firebase.google.com/u/0",
     },
@@ -13,8 +13,8 @@ export default [
     category: "School",
     color: "red",
     items: {
-      Outlook: "https://outlook.office365.com/mail/inbox",
-      Canvas: "https://sit.instructure.com",
+      Blackboard: "https://gallaudet.blackboard.com/ultra/course",
+      Bison: "http://bison.gallaudet.edu/",
       MyStevens: "https://login.stevens.edu/app/UserHome",
     },
   },
@@ -23,7 +23,6 @@ export default [
     color: "green",
     items: {
       Linkedin: "https://linkedin.com",
-      Twitter: "https://twitter.com",
       Leetcode: "https://leetcode.com",
       Handshake: "https://app.joinhandshake.com/stu/postings",
       Indeed: "https://www.indeed.com/",
