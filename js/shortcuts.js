@@ -5,7 +5,7 @@ export default [
     items: {
       Reddit: "https://reddit.com",
       Twitter: "https://twitter.com",
-      "Goodreads": "https://goodreads.com",
+      Goodreads: "https://goodreads.com",
       Firebase: "https://console.firebase.google.com/u/0",
     },
   },
