@@ -15,7 +15,7 @@ export default [
     items: {
       Blackboard: "https://gallaudet.blackboard.com/ultra/course",
       Bison: "http://bison.gallaudet.edu/",
-      MyStevens: "https://login.stevens.edu/app/UserHome",
+      Bookshelf: "https://gallaudet.ecampus.com/myaccount/digital-bookshelf",
     },
   },
   {
